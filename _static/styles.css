@@ -1,12 +1,13 @@
-/* Pykari site CSS */
+/* Jonah Greenstein Creative Portfolio - Pykari CSS */
 
 img {
-	max-width: 90%;
+	max-width: 60%;
 	height: auto;
 }
 
 body {
-	width: 80%;
 	margin: 0 auto;
+	max-width: 60%;
+	justify-content: center;
 }
 

@@ -1,13 +1,11 @@
 /* Jonah Greenstein Creative Portfolio - Pykari CSS */
 
-img {
-	max-width: 60%;
-	height: auto;
-}
-
 body {
 	margin: 0 auto;
-	max-width: 60%;
-	justify-content: center;
+	max-width: 50rem;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}

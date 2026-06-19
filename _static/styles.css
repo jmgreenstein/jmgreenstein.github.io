@@ -10,6 +10,17 @@ img {
 	height: auto;
 }
 
+.image-container {
+	display: flex;
+	gap: 0px;
+	align-items: center;
+}
+
+.image-container img {
+	max-width: 100%;
+	height: auto;
+}
+
 .split {
 	max-width: 50%;
 	height: auto;
